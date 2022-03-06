@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Chigomezgo
+- 👀 I’m interested in Javascript and Three.js
+- 🌱 I’m currently learning javascript and blender
+- 💞️ I’m looking to collaborate on beginner javascript projects
